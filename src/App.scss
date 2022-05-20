@@ -1,0 +1,35 @@
+
+.App {
+ // text-align: center;
+  header{
+background: #999;
+  }
+  main {
+display:flex;
+aside{
+  width: 25%;
+}
+  }
+
+  footer{
+background: #444;
+Logo{
+  max-width: 200px;
+}
+  }
+}
+Watch{
+  
+
+  // display: inline-block;
+  position: relative;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  z-index: 1;
+
+}  Hours{
+    transform: rotate(30deg);
+  }
